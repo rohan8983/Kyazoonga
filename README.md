@@ -1,5 +1,5 @@
 # Kyazoonga
-sample template 
+Sample Template with React, Redux and NextJs
 
 # Dependencies Installation 
 npm install
