@@ -1,10 +1,10 @@
 # Kyazoonga
 sample template 
 
-# Installation 
+# Dependencies Installation 
 npm install
 
-# Before start build app 
+# Before start build the app 
 npm run build
 
 # Start the app
