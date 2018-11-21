@@ -1,0 +1,134 @@
+{
+  "hot_tickets": [
+    {
+      "src": "http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+      "ticketPrice": "INR 50 - 2,500",
+      "timeInfo": "SAT, FEB 10, 2018 20:00 Onward",
+      "ticketTitle": "JamshedpurFC - ISL Season 4",
+      "venueInfo": "JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur"
+    },
+    {
+      "src": "http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+      "ticketPrice": "INR 50 - 2,500",
+      "timeInfo": "SAT, FEB 10, 2018 20:00 Onward",
+      "ticketTitle": "JamshedpurFC - ISL Season 4",
+      "venueInfo": "JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur"
+    },
+    {
+      "src": "http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+      "ticketPrice": "INR 50 - 2,500",
+      "timeInfo": "SAT, FEB 10, 2018 20:00 Onward",
+      "ticketTitle": "JamshedpurFC - ISL Season 4",
+      "venueInfo": "JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur"
+    },
+    {
+      "src": "http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+      "ticketPrice": "INR 50 - 2,500",
+      "timeInfo": "SAT, FEB 10, 2018 20:00 Onward",
+      "ticketTitle": "JamshedpurFC - ISL Season 4",
+      "venueInfo": "JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur"
+    },
+    {
+      "src": "http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+      "ticketPrice": "INR 50 - 2,500",
+      "timeInfo": "SAT, FEB 10, 2018 20:00 Onward",
+      "ticketTitle": "JamshedpurFC - ISL Season 4",
+      "venueInfo": "JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur"
+    },
+    {
+      "src": "http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+      "ticketPrice": "INR 50 - 2,500",
+      "timeInfo": "SAT, FEB 10, 2018 20:00 Onward",
+      "ticketTitle": "JamshedpurFC - ISL Season 4",
+      "venueInfo": "JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Concerts",
+      "src": "https://static2.kyazoonga.com/Images/kzconsumer/top-categories/concerts-cat1.jpg"
+    },
+    {
+      "title": "Cricket",
+      "src": "https://static2.kyazoonga.com/Images/kzconsumer/top-categories/cricket-cat1.jpg"
+    },
+    {
+      "title": "Theatre & Arts",
+      "src": "https://static2.kyazoonga.com/Images/kzconsumer/top-categories/theatre-cat.jpg"
+    },
+    {
+      "title": "Amusement Parks",
+      "src": "https://static2.kyazoonga.com/Images/kzconsumer/top-categories/amusementparks-cat.jpg"
+    },
+    {
+      "title": "Sports",
+      "src": "https://static2.kyazoonga.com/Images/kzconsumer/top-categories/sports-cat.jpg"
+    },
+    {
+      "title": "Restaurants",
+      "src": "https://static2.kyazoonga.com/Images/kzconsumer/top-categories/restaurants-cat.jpg"
+    }
+  ],
+  "featuredIn": [
+    {
+      "href": "https://www.forbes.com/sites/julianmitchell/2017/06/08/this-ticketing-platform-aims-to-overthrow-ticketmaster-and-stubhub-as-global-leader/#2eee65851bc2",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/forbes-logo.jpg",
+      "alt": "Forbes"
+    },
+    {
+      "href": "https://tech.co/technology-upgrading-events-industry-2017-06",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/techco-logo.jpg",
+      "alt": "Forbes"
+    },
+    {
+      "href": "https://www.ausleisure.com.au/news/forbes-names-kyazoonga-as-the-fastest-growing-international-online-ticket-p/",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/ausleisure-logo.jpg",
+      "alt": "INC"
+    },
+    {
+      "href": "http://www.inc.com/drew-hendricks/top-3-trends-driving-change-for-the-events-industry.html",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/inc-logo.jpg",
+      "alt": "INC"
+    },
+    {
+      "href": "https://www.entrepreneur.com/article/289909",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/entrepreneur-magazine.jpg",
+      "alt": "Magazine"
+    },
+    {
+      "href": "https://www.youtube.com/watch?v=1aSuorjmrRs",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/cnbc.jpg",
+      "alt": "CNBC"
+    },
+    {
+      "href": "http://zeenews.india.com/exclusive/guns-n-roses-in-delhi-waiting-with-impatience-for-the-next-time_5910.html",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/z-news.jpg",
+      "alt": "Z News"
+    },
+    {
+      "href": "http://tech.economictimes.indiatimes.com/news/startups/ratan-tata-invests-undisclosed-amount-in-e-ticketing-startup-kyazoonga/52681961",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/the-economic-times.jpg",
+      "alt": "The Economic Times"
+    },
+    {
+      "href": "http://timesofindia.indiatimes.com/australia-in-india-2009/top-stories/MCA-appoints-KyaZoonga-com-as-the-official-ticketing-partner/articleshow/5196286.cms",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/the-times-of-india.jpg",
+      "alt": "Times of India"
+    },
+    {
+      "href": "http://www.business-standard.com/article/companies/ratan-tata-invests-in-kyazoonga-116061000326_1.html",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/business-standard.jpg",
+      "alt": "Business Standard"
+    },
+    {
+      "href": "http://www.news18.com/news/buzz/guns-n-roses-india-tour-80-tickets-outlets-opened-524376.html",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/news18.jpg",
+      "alt": "News 18"
+    },
+    {
+      "href": "https://sports.ndtv.com/india-vs-west-indies-2013-14/sachin-tendulkars-200th-test-tickets-sold-out-in-15-hours-kyazoongacom-1527446",
+      "src": "https://static3.kyazoonga.com/Images/featured-logo/ndtv.jpg",
+      "alt": "NDTV"
+    }
+  ]
+}

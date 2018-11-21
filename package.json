@@ -1,0 +1,33 @@
+{
+  "name": "kyazoonga",
+  "version": "1.0.0",
+  "description": "sample website template in reactJs with nextJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "dev": "next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan8983/Kyazoonga.git"
+  },
+  "author": "rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan8983/Kyazoonga/issues"
+  },
+  "homepage": "https://github.com/rohan8983/Kyazoonga#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "next-redux-wrapper": "^2.0.0",
+    "next-routes": "^1.4.2",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.5"
+  }
+}
